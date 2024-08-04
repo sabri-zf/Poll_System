@@ -1,0 +1,9 @@
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\bin\Debug\ClsBusinessLayer.dll
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\bin\Debug\ClsBusinessLayer.pdb
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\bin\Debug\ClsDataAccessLayer.dll
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\bin\Debug\ClsDataAccessLayer.pdb
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\obj\Debug\ClsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\obj\Debug\ClsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\obj\Debug\ClsBusin.567CA4FF.Up2Date
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\obj\Debug\ClsBusinessLayer.dll
+C:\Users\Samsung\source\repos\Poll_System\ClsBusinessLayer\obj\Debug\ClsBusinessLayer.pdb

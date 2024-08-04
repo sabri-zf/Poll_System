@@ -1,0 +1,6 @@
+C:\Users\Samsung\source\repos\Poll_System\ClsDataAccessLayer\bin\Debug\ClsDataAccessLayer.dll
+C:\Users\Samsung\source\repos\Poll_System\ClsDataAccessLayer\bin\Debug\ClsDataAccessLayer.pdb
+C:\Users\Samsung\source\repos\Poll_System\ClsDataAccessLayer\obj\Debug\ClsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\Poll_System\ClsDataAccessLayer\obj\Debug\ClsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Poll_System\ClsDataAccessLayer\obj\Debug\ClsDataAccessLayer.dll
+C:\Users\Samsung\source\repos\Poll_System\ClsDataAccessLayer\obj\Debug\ClsDataAccessLayer.pdb
